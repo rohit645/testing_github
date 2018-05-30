@@ -15,5 +15,4 @@ bye
 
 
 
-hi i was missing u badly
 
